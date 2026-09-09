@@ -1,4 +1,4 @@
-# Orbital-Framework-2
+# Orbital-Framework-IAC
 
 ## Primeros pasos
 Primero descarga el .zip, para poder continuar con los pasos.
